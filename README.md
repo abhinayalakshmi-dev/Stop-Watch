@@ -33,4 +33,4 @@ This project allows users to **start**, **pause**, and **reset** the timer with 
 
 ---
 
-## 📂 Project Structure
+
